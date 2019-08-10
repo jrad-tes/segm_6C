@@ -53,8 +53,8 @@ function [fem,mesh,segm] = segm_6C(pathout,path_t1,path_t2,path_toolbox)
 %   [fem,mesh,segm] = segm_6C(pathout,path_t1,path_t2,path_toolbox);
 %
 %                                               by Jan-Ole Radecke, 05/2017
-%                                                                      v1
-% v1 (26.07.2019)
+%                                                                    v1.0.0
+% v1.0.0 (26.07.2019)
 % Reduced code for distribution. Cite: Radecke et al., "Simulating 
 %   individually targeted transcranial electric stimulation for 
 %   experimental application".
