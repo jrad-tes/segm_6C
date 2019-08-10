@@ -1,4 +1,4 @@
-The function segm_6C.m is function to compute a MATLAB-based six compartment segmentation from individual T1 and T2 weighted MRI data. The available functions was implemented for a specific use and for MRI data, acquired with specific parameters. This is a preliminary function of work in progress.
+The function segm_6C.m is function to compute a MATLAB-based six compartment segmentation from individual T1 and T2 weighted MRI data and subsequent computation of a geometry-adapted hexahedral mesh. The available functions was implemented for a specific use and for MRI data, acquired with specific parameters. This is a preliminary function of work in progress.
 
 For the freedom to adapt it other applications the code was released as free software under the MIT license without any warranties. However, the code is dependent on other software packages that are distributed elsewhere and that are covered under their respective licenses (see the documentation of segm_6C.m for details).
 
